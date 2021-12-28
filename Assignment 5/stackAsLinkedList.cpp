@@ -1,6 +1,3 @@
-// Name: DongYun Kim
-// Student Number: 200405213
-// Date: 2021-12-01
 // CS115-Assignment 5
 
 // File: stackAsLinkedList.cpp
