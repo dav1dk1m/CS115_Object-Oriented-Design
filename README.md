@@ -13,17 +13,17 @@ The Program then should display month-wise min., max. and average temperatures a
 the average max. and the average mean TEMPERATURE and RAINFALL of the entire year (12 months in total) at the end of the output.
 
 ### Assignment 3 & 4
-**Task 1: Inheritance**
+**Task 1: Inheritance**  
 Implement a Cat class and a Dog class respectively. Both Cat and Dog classes derive from the same base class, Animal class.
 Besides all the variables and methods derived from the Animal class, the Cat and Dog classes should have at least one specific variable and one specific method in each class.
 
-**Task 2: Operator Overloading**
+**Task 2: Operator Overloading**  
 Implement an assignment operator “=” overloading in the Cat class.This "=" operator allows you to create new Cat instances from existing objects. 
 
-**Task 3: Template Function**
+**Task 3: Template Function**  
 Delete implementation of the assignment operator overloading in the Cat class. Then, add template operator “=” overloading function outside the Cat class.
 
-**Task 4: Pointer**
+**Task 4: Pointer**  
 Create pointers for Cat and dog. And please try to use these pointers to invoke Cat and Dog instances’ methods such as meow and burk individually.
 
 ### Assignment 5
