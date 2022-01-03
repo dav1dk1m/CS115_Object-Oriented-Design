@@ -27,4 +27,4 @@ Delete implementation of the assignment operator overloading in the Cat class. T
 Create pointers for Cat and dog. And please try to use these pointers to invoke Cat and Dog instances’ methods such as meow and burk individually.
 
 ### Assignment 5
-
+C++ Program to Implement Stack using array
